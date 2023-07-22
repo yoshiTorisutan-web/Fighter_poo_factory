@@ -1,0 +1,11 @@
+# Définissons quelques constantes
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+PLAYER_SIZE = 50
+ENEMY_SIZE = 50
+ENEMY_SPAWN_RATE = 100
+
+# Couleurs
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
