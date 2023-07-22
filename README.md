@@ -3,6 +3,7 @@
   <img src="images/arrow.png" alt="Logo" width="80" height="80">
 </div>
 
+
 Fighter est un jeu simple créé avec Python et Pygame. Le joueur contrôle un archer qui peut se déplacer de gauche à droite et tirer des flèches vers le haut pour détruire les ennemis.
 
 ## Caractéristiques
