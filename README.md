@@ -3,10 +3,11 @@
   <img src="images/arrow.png" alt="Logo" width="80" height="80">
 </div>
 
+# Présentation du projet
 
 Fighter est un jeu simple créé avec Python et Pygame. Le joueur contrôle un archer qui peut se déplacer de gauche à droite et tirer des flèches vers le haut pour détruire les ennemis.
 
-## Caractéristiques
+# Caractéristiques
 
 - Le joueur peut se déplacer de gauche à droite en utilisant les touches de direction gauche et droite.
 - Le joueur peut tirer des projectiles en appuyant sur la barre d'espace.
@@ -14,14 +15,14 @@ Fighter est un jeu simple créé avec Python et Pygame. Le joueur contrôle un a
 - Le joueur gagne des points en détruisant des ennemis avec des projectiles.
 - La partie se termine si un ennemi touche le joueur ou dépasse le joueur.
 
-## Technologies utilisées
+# Technologies utilisées
 
 - Python: Le langage de programmation principal utilisé pour développer le jeu.
 - Pygame: Une bibliothèque Python utilisée pour créer des jeux en 2D.
 - Pygame.Rect: Utilisé pour gérer les positions, les dimensions et les collisions des objets du jeu.
 - Pattern Factory: Utilisé pour la création d'objets dans le jeu.
 
-## Comment jouer
+# Comment jouer
 
 1. Assurez-vous d'avoir Python et Pygame installés sur votre ordinateur.
 2. Clonez ce dépôt sur votre ordinateur.
